@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-25T22:43:21</date>
+  <millis>1700948601702</millis>
+  <sequence>0</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>******************************</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:21</date>
+  <millis>1700948601706</millis>
+  <sequence>1</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methode addCompte</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:21</date>
+  <millis>1700948601706</millis>
+  <sequence>2</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Après l'execution de la methode addCompte</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:21</date>
+  <millis>1700948601707</millis>
+  <sequence>3</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Temps d'execution de la methode addCompte est 5 ms</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:21</date>
+  <millis>1700948601707</millis>
+  <sequence>4</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>*****************************</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:34</date>
+  <millis>1700948614399</millis>
+  <sequence>5</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>verser_aroundBody5$advice</method>
+  <thread>1</thread>
+  <message>******************************</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:34</date>
+  <millis>1700948614399</millis>
+  <sequence>6</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>verser_aroundBody5$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methode verser</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:34</date>
+  <millis>1700948614399</millis>
+  <sequence>7</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>verser_aroundBody5$advice</method>
+  <thread>1</thread>
+  <message>Après l'execution de la methode verser</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:34</date>
+  <millis>1700948614399</millis>
+  <sequence>8</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>verser_aroundBody5$advice</method>
+  <thread>1</thread>
+  <message>Temps d'execution de la methode verser est 0 ms</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:34</date>
+  <millis>1700948614400</millis>
+  <sequence>9</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>verser_aroundBody5$advice</method>
+  <thread>1</thread>
+  <message>*****************************</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:34</date>
+  <millis>1700948614400</millis>
+  <sequence>10</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>******************************</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:34</date>
+  <millis>1700948614400</millis>
+  <sequence>11</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methode consulterCompte</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:34</date>
+  <millis>1700948614400</millis>
+  <sequence>12</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Après l'execution de la methode consulterCompte</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:34</date>
+  <millis>1700948614400</millis>
+  <sequence>13</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Temps d'execution de la methode consulterCompte est 0 ms</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:34</date>
+  <millis>1700948614400</millis>
+  <sequence>14</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>*****************************</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:56</date>
+  <millis>1700948636471</millis>
+  <sequence>15</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>******************************</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:56</date>
+  <millis>1700948636471</millis>
+  <sequence>16</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methode consulterCompte</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:56</date>
+  <millis>1700948636472</millis>
+  <sequence>17</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Après l'execution de la methode consulterCompte</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:56</date>
+  <millis>1700948636472</millis>
+  <sequence>18</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Temps d'execution de la methode consulterCompte est 1 ms</message>
+</record>
+<record>
+  <date>2023-11-25T22:43:56</date>
+  <millis>1700948636472</millis>
+  <sequence>19</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>*****************************</message>
+</record>
+<record>
+  <date>2023-11-25T22:44:00</date>
+  <millis>1700948640749</millis>
+  <sequence>20</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>******************************</message>
+</record>
+<record>
+  <date>2023-11-25T22:44:00</date>
+  <millis>1700948640750</millis>
+  <sequence>21</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methode consulterCompte</message>
+</record>
+<record>
+  <date>2023-11-25T22:44:00</date>
+  <millis>1700948640750</millis>
+  <sequence>22</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Après l'execution de la methode consulterCompte</message>
+</record>
+<record>
+  <date>2023-11-25T22:44:00</date>
+  <millis>1700948640750</millis>
+  <sequence>23</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Temps d'execution de la methode consulterCompte est 1 ms</message>
+</record>
+<record>
+  <date>2023-11-25T22:44:00</date>
+  <millis>1700948640750</millis>
+  <sequence>24</sequence>
+  <logger>com.laamrani.aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.metier.IMetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>*****************************</message>
+</record>
+</log>

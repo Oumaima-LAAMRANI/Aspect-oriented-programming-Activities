@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-25T23:16:17</date>
+  <millis>1700950577015</millis>
+  <sequence>0</sequence>
+  <logger>com.laamrani.aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.aspects.LogAspect</class>
+  <method>logAround</method>
+  <thread>1</thread>
+  <message>******************************</message>
+</record>
+<record>
+  <date>2023-11-25T23:16:17</date>
+  <millis>1700950577023</millis>
+  <sequence>1</sequence>
+  <logger>com.laamrani.aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.aspects.LogAspect</class>
+  <method>logAround</method>
+  <thread>1</thread>
+  <message>From Logging Aspect ... Before processprocess</message>
+</record>
+<record>
+  <date>2023-11-25T23:16:17</date>
+  <millis>1700950577024</millis>
+  <sequence>2</sequence>
+  <logger>com.laamrani.aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.aspects.LogAspect</class>
+  <method>logAround</method>
+  <thread>1</thread>
+  <message>From Logging Aspect ... After processprocess</message>
+</record>
+<record>
+  <date>2023-11-25T23:16:17</date>
+  <millis>1700950577024</millis>
+  <sequence>3</sequence>
+  <logger>com.laamrani.aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.aspects.LogAspect</class>
+  <method>logAround</method>
+  <thread>1</thread>
+  <message>Temps d'execution de la methode process est 10 ms</message>
+</record>
+<record>
+  <date>2023-11-25T23:16:17</date>
+  <millis>1700950577024</millis>
+  <sequence>4</sequence>
+  <logger>com.laamrani.aspects.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.laamrani.aspects.LogAspect</class>
+  <method>logAround</method>
+  <thread>1</thread>
+  <message>******************************</message>
+</record>
+</log>
